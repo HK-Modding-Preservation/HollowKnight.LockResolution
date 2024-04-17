@@ -6,11 +6,15 @@
 Lock Resolution On GamePlay
 
 default lock: true
+
 default resolution:  first run game resolution
+
 update resolution when menu lock true
 
 
-锁定分辨率(进入存档后)
+
+
+锁定分辨率(进入存档后 起效)
 
 我用的4K双屏幕
 
